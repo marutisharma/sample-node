@@ -1,0 +1,23 @@
+{
+  "name": "sample-node",
+  "version": "1.0.0",
+  "description": "Sample node project to try continuous integration and deployment using Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marutisharma/sample-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marutisharma/sample-node/issues"
+  },
+  "homepage": "https://github.com/marutisharma/sample-node#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
